@@ -4,7 +4,7 @@ import {connect} from 'react-redux';
 const Home = ({greetings}) => {
   return (
     <div>
-      <div>Home</div>
+      <div>主页</div>
       <div>{greetings}</div>
     </div>
   );
